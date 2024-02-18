@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My One</string>
+    <string name="not_yet_implemented">Not Yet Implemented Functionality. Come back later</string>
+    <string name="permission_dialog_title">Permission Required</string>
+    <string name="permission_dialog_description_text">Permission is required to perform this Operation</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
